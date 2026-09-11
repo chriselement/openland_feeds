@@ -2,8 +2,20 @@
 <rss version="2.0">
   <channel>
     <title>Openland Credit Union Careers</title>
-    <lastBuildDate>2026-09-11T20:15:31.218Z</lastBuildDate>
-    <jobCount>3</jobCount>
+    <lastBuildDate>2026-09-11T20:30:31.727Z</lastBuildDate>
+    <jobCount>4</jobCount>
+    <item>
+      <guid>637996815</guid>
+      <title>MSC Agent</title>
+      <link>https://secure7.saashr.com/ta/6217341.careers?CareersSearch=&amp;lang=en-US</link>
+      <location>Brenham, TX</location>
+      <city>Brenham</city>
+      <state>TX</state>
+      <address>2509 Becker Drive</address>
+      <employmentType>FT Non Exempt</employmentType>
+      <remote>false</remote>
+      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;2509 Becker Drive&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Brenham&quot;,&quot;state&quot;:&quot;TX&quot;,&quot;zip&quot;:&quot;77833&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null,&quot;locations&quot;:null}</sourceLocation>
+    </item>
     <item>
       <guid>621276929</guid>
       <title>PT Facilities Assistant</title>
