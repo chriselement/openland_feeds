@@ -2,8 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Openland Credit Union Careers</title>
-    <lastBuildDate>2026-09-22T17:30:31.687Z</lastBuildDate>
-    <jobCount>6</jobCount>
+    <lastBuildDate>2026-09-22T17:45:31.365Z</lastBuildDate>
+    <jobCount>5</jobCount>
     <item>
       <guid>638005270</guid>
       <title>Member Service Representative</title>
@@ -63,18 +63,6 @@
       <employmentType>FT Exempt</employmentType>
       <remote>false</remote>
       <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;1095 West League City Parkway&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;League City&quot;,&quot;state&quot;:&quot;TX&quot;,&quot;zip&quot;:&quot;77573&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null,&quot;locations&quot;:null}</sourceLocation>
-    </item>
-    <item>
-      <guid>621262860</guid>
-      <title>Assistant Branch Manager</title>
-      <link>https://secure7.saashr.com/ta/6217341.careers?CareersSearch=&amp;lang=en-US</link>
-      <location>Deer Park, TX</location>
-      <city>Deer Park</city>
-      <state>TX</state>
-      <address>309 West X Street</address>
-      <employmentType>FT Non Exempt</employmentType>
-      <remote>false</remote>
-      <sourceLocation>{&quot;location&quot;:{&quot;address_line_1&quot;:&quot;309 West X Street&quot;,&quot;country&quot;:&quot;USA&quot;,&quot;city&quot;:&quot;Deer Park&quot;,&quot;state&quot;:&quot;TX&quot;,&quot;zip&quot;:&quot;77536&quot;},&quot;primary_location&quot;:null,&quot;primaryLocation&quot;:null,&quot;job_location&quot;:null,&quot;jobLocation&quot;:null,&quot;locations&quot;:null}</sourceLocation>
     </item>
   </channel>
 </rss>
